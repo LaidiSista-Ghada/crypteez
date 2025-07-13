@@ -7,7 +7,7 @@ import Hero from './Hero'
 import Mobile from './Mobile'
 import Tabs from './Tabs' 
 import Prices from './Prices'
-import Columns from './columns'
+import Columns from './Columns'
 import Questions from './Questions'
 
 function App() {
